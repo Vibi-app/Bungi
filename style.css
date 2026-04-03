@@ -111,5 +111,5 @@ footer {
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.2rem; }
   .hero p { font-size: 1rem; }
-  .logo { width: 200px; }
+  .logo { width: 400px; }
 }
